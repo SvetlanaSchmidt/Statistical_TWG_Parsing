@@ -1,6 +1,6 @@
 {
-  "embed": {"size": 300, "dropout": 0.1},
-  "context": {"inp_size": 300, "out_size": 200, "depth": 2, "dropout": 0.1, "out_dropout": 0.1},
+  "embed": {"size": 100, "dropout": 0.1},
+  "context": {"inp_size": 100, "out_size": 200, "depth": 2, "dropout": 0.1, "out_dropout": 0.1},
   "tag_context": {"inp_size": 400, "out_size": 200, "depth": 2, "dropout": 0.1, "out_dropout": 0.1},
   "pos_tagger": {"lstm": null, "inp_size": 400},
   "super_tagger": {"lstm": null, "inp_size": 400},
