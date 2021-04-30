@@ -1,2 +1,2 @@
-produce==0.4.1
-git+https://github.com/kawu/partage-sup@master#egg=supertagger
+produce==0.4.5
+git+https://github.com/SvetlanaSchmidt/partage-sup@master#egg=supertagger
